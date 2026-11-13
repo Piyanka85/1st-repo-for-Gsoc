@@ -1,18 +1,49 @@
 # 1st-repo-for-Gsoc
+
 My Gsoc preperation
+
 ## About Me
+
 BTech CSE-AIML Student
 
 ## My Goal
+
 Participate in Google Summer of Code .
 
 ## My Learning Goals
-- Python
-- Git and GitHub
-- NumPy
-- Pandas
-- Machine Learning
-- Open Source Contribution
+
+* Python
+* Git and GitHub
+* NumPy
+* Pandas
+* Machine Learning
+* Open Source Contribution
 
 ## Progress
+
 Day 1: Created my first repository.
+
+
+
+\## Day 2 Learning
+
+
+
+Today I learned:
+
+\- Git clone
+
+\- Git branch
+
+\- Git status
+
+\- Git add
+
+\- Git commit
+
+\- Git push
+
+
+
+I created my first practice branch: day2-practice.
+
